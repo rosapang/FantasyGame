@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Character class
  * **               This file implements the Character class which is a base class
  *                  for both the Player and the Boss (monter). It can make basic

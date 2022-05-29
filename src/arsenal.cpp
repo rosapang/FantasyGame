@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Arsenal class
  * **               This file implements the Arsenal space where player can pick up
  *                  various weapons used to fight the monster.

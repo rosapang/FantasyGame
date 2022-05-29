@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Exit class
  * **               This file implements the Exit class which is the gateway to winning the game.
  ******************************************************************************/

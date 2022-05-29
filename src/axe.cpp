@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Axe class
  * **               This file implements the Axe weapon's attack method where you have 50% chance
  *                  to have triple damage.

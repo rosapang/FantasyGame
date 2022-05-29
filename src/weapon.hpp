@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Weapon class
  * **               This file declares the Weapon class which has ability to
  *                  cause more damage in a fight.

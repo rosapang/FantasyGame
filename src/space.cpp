@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Space class
  * **               This file implements the Space class, a base class where various
  *                  space forms are inheriting from. It tracks common elements like

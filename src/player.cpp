@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Player class
  * **               This file implements the Player class, which is the main character
  *                  in the game, the player can do various things depending on which

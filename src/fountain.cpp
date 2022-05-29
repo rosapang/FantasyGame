@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Fountain class
  * **               This file implements the Fountain class, which can help the
  *                  player restore some HPs.

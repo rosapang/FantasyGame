@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Wall class
  * **               This file declares the Wall class which divides the spaces,
  *                  player cannot cross a wall.

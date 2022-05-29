@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Boss class
  * **               This file implements the Boss class which is a monster lives in the abyss.
  ******************************************************************************/

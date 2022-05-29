@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Game class
  * **               This file implements the Game class, which has various methods
  *                  to start and keep the game going, it will end if either player

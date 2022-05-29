@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Character class
  * **               This file declars method for the Character class.
  ******************************************************************************/

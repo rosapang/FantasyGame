@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Stair class
  * **               This file implements the Stair class, a basic space which leads
  *                  to other spaces.

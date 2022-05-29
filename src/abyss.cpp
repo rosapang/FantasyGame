@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Abyss class
  * **               This file include the implementation of the constructor,
  *                  as well as the how player interacts with the abyss by having

@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Shield class
  * **               This file declare the Shield class, a weapon which improves
  *                  the player chance to take less harm.

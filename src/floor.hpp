@@ -1,6 +1,4 @@
 /*******************************************************************************
- * ** Author:       Ruosha Pang
- * ** Date:         2019-12-08
  * ** Description:  Floor class
  * **               This file declares the Floor class which is a regular space.
  ******************************************************************************/
